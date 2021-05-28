@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.4+commit.c7e474f2"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"UnstoppableFinance.sol": "SafeMath"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": true,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"UnstoppableFinance.sol": {
+			"keccak256": "0xdf914a89669b3f0b52605059381770f50447041f343c65a28cfc9e02328e5429",
+			"license": "Unlicensed",
+			"urls": [
+				"bzz-raw://bb64a48d7b16186471c38598ddd1b60e9286355c2777f3ff182eb7c86ce6de12",
+				"dweb:/ipfs/QmTT8oPYuzFUZ4VQwdYwNnDGz2N5fCyAVSQ7CDkxkvNunG"
+			]
+		}
+	},
+	"version": 1
+}
